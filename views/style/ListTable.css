@@ -1,0 +1,17 @@
+body {
+    padding: 50px 60px;
+}
+
+.thead-button {
+    width: 15%;
+}
+
+.item-button {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.btn-add-new {
+    margin-bottom: 15px;
+    float: right;
+}

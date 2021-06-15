@@ -1,0 +1,30 @@
+.checkout-page {
+
+}
+.form-group {
+
+}
+
+.label-input {
+    font-size: 19px;
+}
+.total-money-box {
+    float: right;
+}
+.total-money {
+    font-size: 20px;
+    font-weight: bolder;
+}
+.number-money {
+    font-size: 20px;
+}
+
+.btn-group-control {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 65px;
+}
+
+.btn-group-control button{
+    margin-left: 15px;
+}

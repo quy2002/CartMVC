@@ -1,0 +1,27 @@
+.noti-order {
+    width: 600px;
+    height: 270px;
+    margin: 50px auto;
+    box-shadow: 0 0 5px;
+    padding: 15px 40px;
+}
+
+.noti-order h2 {
+    font-size: 30px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid rgba(125, 130, 125, 0.47);
+}
+
+.noti-order p {
+    padding-top: 15px;
+    font-size: 18px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid rgba(125, 130, 125, 0.47);
+
+}
+
+.noti-order button {
+    margin-top: 15px;
+    float: right;
+}
